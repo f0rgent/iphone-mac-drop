@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>f0drop sends photos to your Mac over the local network.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_f0drop._tcp</string>
+		<string>_f0drop._udp</string>
+	</array>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>f0drop uses Bluetooth so your Mac can tell when the phone is touching it.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>f0drop uses Bluetooth so your Mac can tell when the phone is touching it.</string>
+</dict>
+</plist>

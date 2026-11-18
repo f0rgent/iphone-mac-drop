@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>f0drop receives photos from your iPhone over the local network.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_f0drop._tcp</string>
+		<string>_f0drop._udp</string>
+	</array>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>f0drop uses Bluetooth to see when your iPhone touches the Mac.</string>
+</dict>
+</plist>

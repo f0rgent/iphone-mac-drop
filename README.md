@@ -34,3 +34,7 @@ You need a Mac with full Xcode (16 or newer) and an iPhone with a cable. A free 
 - The -40 dBm "touching" threshold is in `Shared/DropMessage.swift` (`touchRSSI`). Tune it for your devices.
 - The Mac app writes a debug log to `~/Library/Logs/f0drop.log`.
 - MVP: the Mac app is not sandboxed, and the link is unencrypted.
+
+---
+
+Don't have Claude Code yet? [Get Claude here](https://claude.ai/referral/IL0FPScZCw).
